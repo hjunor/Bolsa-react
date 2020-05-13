@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto é para determinar se o referente familiar portador do nis, recebe ou recebeu beneficio eventual.
 
 <h4 align="center">
-  <img src='./src/img/bolsa2.png' width='400px' heigth='200px'>
+  <img src='./src/img/bolsa2.png' width='100%' heigth='100%'>
 </h4>
 
 ## 🤔 Como contribuir
