@@ -1,16 +1,16 @@
-div.container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #FFF;
-    margin-top: 30px;
+div.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  margin-top: 30px;
 }
 
-div.container div.box{
-    padding: 30px;
-    height: 110%;
-    width: 100%;
-    background: #FFF;
-    border-radius: 16px;
-    box-shadow: 0 0 1em #9999;
+div.container div.box {
+  padding: 30px;
+  height: 110%;
+  width: 100%;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 0 1em #9999;
 }
